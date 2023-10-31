@@ -5,7 +5,6 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Works from "./components/Works";
 import Contact from "./components/Contact";
-import Demo from './components/Demo';
 
 function App() {
   return (
