@@ -118,7 +118,7 @@ const Navbar = () => {
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                     <a
                     className='flex justify-between items-center w-full text-gray-300'
-                    href="portfolio-butterCMS/src/assets/Yash_Shah_Resume.pdf" download="Yash_Shah_Resume.pdf"
+                    href="https://github.com/yashshah7889/resume/blob/b726b5a0f1f269078263f01e94732635e6ab21fc/Yash_Shah_Resume.pdf"
                     >
                    Resume <BsFillPersonLinesFill size={30} />
                     </a>
